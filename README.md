@@ -45,3 +45,9 @@ The GreenTech Admin Dashboard is a comprehensive full-stack application designed
 - CORS configuration for safe cross-origin requests  
 
 ---
+## ⚙️ Installation
+
+git clone https://github.com/kossayokazi/GreenTech.git
+cd GreenTech
+npm install
+npm run dev

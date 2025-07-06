@@ -47,9 +47,9 @@ The GreenTech Admin Dashboard is a comprehensive full-stack application designed
 ---
 ## ⚙️ Installation
 
-git clone https://github.com/your-username/GreenTech.git
+*git clone https://github.com/your-username/GreenTech.git
 cd GreenTech
 npm install
-npm run dev
+npm run dev*
 
 ---

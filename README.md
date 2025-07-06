@@ -47,16 +47,9 @@ The GreenTech Admin Dashboard is a comprehensive full-stack application designed
 ---
 ## ⚙️ Installation
 
-# 1. Cloner le dépôt GitHub
 git clone https://github.com/kossayokazi/GreenTech.git
-
-# 2. Accéder au dossier du projet
 cd GreenTech
-
-# 3. Installer les dépendances
 npm install
-
-# 4. Lancer l’application en mode développement
 npm run dev
 
 ---

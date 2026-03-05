@@ -1,3 +1,10 @@
+#Project Information
+Course: Web Development
+Institution: Higher Institute of Technological Studies Gafsa (ISET)
+Project Type: Mini Project
+Submission Date: Avril 2025
+Student : Kossay Okazi
+
 # 🌿 GreenTech Admin Dashboard  
 **E-commerce Backend & Frontend Solution for Eco-Friendly Products**
 
